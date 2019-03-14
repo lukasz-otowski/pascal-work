@@ -1,13 +1,17 @@
 # Pascal work
 
-### hello-world
+### hello-world.pas
 
-standard start app
+Standard start app.
 
 ### calc-yourself.pas
 
-simple game, choose type of operation and then count result
+Simple game, choose type of operation and then count result.
 
 ### number-shot.pas
 
-simple game, try shoot the same number as computer
+Simple game, try shoot the same number as computer.
+
+## my-number.pas
+
+Another simple game, choose your number, and try to guess the computer number.
